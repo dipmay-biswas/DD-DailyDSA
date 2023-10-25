@@ -1,3 +1,3 @@
-# DD-DailyDSA
+## DD-DailyDSA
 
--DD _dailyDSA praticing challange.
+- DD _dailyDSA praticing challange.
